@@ -1,1 +1,0 @@
-![CI](https://github.com/Vyacheslav-hub/ahj-env-project/actions/workflows/web.yml/badge.svg)
